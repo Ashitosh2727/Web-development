@@ -1,0 +1,12 @@
+/* Color property used to set color of foreground */
+h1 {
+    color: red;
+}
+
+p{
+    color: green;
+}
+/* Background color is used to set color to background */
+h1 {
+    background-color: white;
+}
