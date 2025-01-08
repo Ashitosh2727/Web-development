@@ -1,0 +1,31 @@
+/* div{
+    background-color: pink;
+    display: inline;
+} */
+
+#div1{
+    background-color: pink;
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+
+#div2{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+
+#div3{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
