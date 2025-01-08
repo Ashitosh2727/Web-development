@@ -1,0 +1,16 @@
+div{
+    height: 100px;
+    width: 100px;
+}
+
+#div1{
+    background-color: rgba(0,0,255,0.5);
+}
+
+#div2{
+    background-color: rgba(0,0,255,0.75);
+}
+
+#div3{
+    background-color: rgba(0,0,255,1);
+}
