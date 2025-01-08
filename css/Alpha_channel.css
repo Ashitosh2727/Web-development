@@ -1,6 +1,9 @@
 div{
     height: 100px;
     width: 100px;
+    display: inline;
+    margin: 25px;
+    padding: 25px;
 }
 
 #div1{
